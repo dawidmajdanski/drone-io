@@ -13,7 +13,7 @@ private class BM_Tests {
         System.assertNotEquals(0,1);
     }
     
-        static testMethod void droneTest(){
+    static testMethod void droneTest(){
         System.assertNotEquals(0,1);
     }
 }
