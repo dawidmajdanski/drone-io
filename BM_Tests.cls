@@ -12,4 +12,8 @@ private class BM_Tests {
     static testMethod void testBehavior2(){
         System.assertNotEquals(0,1);
     }
+    
+        static testMethod void droneTest(){
+        System.assertNotEquals(0,1);
+    }
 }
